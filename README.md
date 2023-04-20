@@ -1,2 +1,2 @@
-# Curso-Pr-ctico-de-JavaScript-desde-cero
+# Curso-Practico-de-JavaScript-desde-cero
 practicando javascript
